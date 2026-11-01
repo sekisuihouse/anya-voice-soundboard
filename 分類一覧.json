@@ -1,0 +1,722 @@
+[
+  {
+    "id": "0",
+    "title": "anya-likes-peanuts",
+    "category": "食べもの",
+    "src": "audio/000.mp3",
+    "original": "anya-likes-peanuts.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "1",
+    "title": "anya-voice1",
+    "category": "内容確認",
+    "src": "audio/001.mp3",
+    "original": "anya-voice1.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "2",
+    "title": "anya-voice2",
+    "category": "内容確認",
+    "src": "audio/002.mp3",
+    "original": "anya-voice2.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "3",
+    "title": "anya-voice3",
+    "category": "内容確認",
+    "src": "audio/003.mp3",
+    "original": "anya-voice3.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "4",
+    "title": "anya-voice4",
+    "category": "内容確認",
+    "src": "audio/004.mp3",
+    "original": "anya-voice4.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "5",
+    "title": "anya-voice5",
+    "category": "内容確認",
+    "src": "audio/005.mp3",
+    "original": "anya-voice5.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "6",
+    "title": "anya-voice6",
+    "category": "内容確認",
+    "src": "audio/006.mp3",
+    "original": "anya-voice6.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "7",
+    "title": "anya-voice7",
+    "category": "内容確認",
+    "src": "audio/007.mp3",
+    "original": "anya-voice7.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "8",
+    "title": "anya-voice8",
+    "category": "内容確認",
+    "src": "audio/008.mp3",
+    "original": "anya-voice8.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "9",
+    "title": "あざざます",
+    "category": "挨拶・返事",
+    "src": "audio/009.mp3",
+    "original": "あざざます.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "10",
+    "title": "おでけけ！",
+    "category": "わくわく・喜び",
+    "src": "audio/010.mp3",
+    "original": "おでけけ！.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "11",
+    "title": "おまえ、ピーナッツいるか？",
+    "category": "食べもの",
+    "src": "audio/011.mp3",
+    "original": "おまえ、ピーナッツいるか？.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "12",
+    "title": "くさいあつと",
+    "category": "ツッコミ・いたずら",
+    "src": "audio/012.mp3",
+    "original": "くさいあつと.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "13",
+    "title": "くびちょんぱ",
+    "category": "ツッコミ・いたずら",
+    "src": "audio/013.mp3",
+    "original": "くびちょんぱ.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "14",
+    "title": "ことないちゃいちゃ",
+    "category": "ツッコミ・いたずら",
+    "src": "audio/014.mp3",
+    "original": "ことないちゃいちゃ.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "15",
+    "title": "そういちろう恋しい",
+    "category": "挨拶・返事",
+    "src": "audio/015.mp3",
+    "original": "そういちろう恋しい.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "16",
+    "title": "ちうちう",
+    "category": "友だち・呼びかけ",
+    "src": "audio/016.mp3",
+    "original": "ちうちう.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "17",
+    "title": "ちうね、家",
+    "category": "友だち・呼びかけ",
+    "src": "audio/017.mp3",
+    "original": "ちうね、家.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "18",
+    "title": "ちち",
+    "category": "友だち・呼びかけ",
+    "src": "audio/018.mp3",
+    "original": "ちち.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "19",
+    "title": "てっちゃん、ごめんなさい",
+    "category": "挨拶・返事",
+    "src": "audio/019.mp3",
+    "original": "てっちゃん、ごめんなさい.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "20",
+    "title": "もときとゆりこ仲良く",
+    "category": "友だち・呼びかけ",
+    "src": "audio/020.mp3",
+    "original": "もときとゆりこ仲良く.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "21",
+    "title": "ゆいか、ツンデレ",
+    "category": "友だち・呼びかけ",
+    "src": "audio/021.mp3",
+    "original": "ゆいか、ツンデレ.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "22",
+    "title": "りゅうのすけはくそやろう",
+    "category": "ツッコミ・いたずら",
+    "src": "audio/022.mp3",
+    "original": "りゅうのすけはくそやろう.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "23",
+    "title": "わらの名前",
+    "category": "友だち・呼びかけ",
+    "src": "audio/023.mp3",
+    "original": "わらの名前.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "24",
+    "title": "キムの子どものアーニャです",
+    "category": "友だち・呼びかけ",
+    "src": "audio/024.mp3",
+    "original": "キムの子どものアーニャです.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "25",
+    "title": "スターライト",
+    "category": "わくわく・喜び",
+    "src": "audio/025.mp3",
+    "original": "スターライト.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "26",
+    "title": "あざざます！",
+    "category": "挨拶・返事",
+    "src": "audio/026.mp3",
+    "original": "セリフ全部/[Anya]あざざます！.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "27",
+    "title": "いてらさい！",
+    "category": "内容確認",
+    "src": "audio/027.mp3",
+    "original": "セリフ全部/[Anya]いてらさい！.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "28",
+    "title": "うい！ り......かいした！",
+    "category": "挨拶・返事",
+    "src": "audio/028.mp3",
+    "original": "セリフ全部/[Anya]うい！ り......かいした！.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "29",
+    "title": "おはやいます！",
+    "category": "挨拶・返事",
+    "src": "audio/029.mp3",
+    "original": "セリフ全部/[Anya]おはやいます！.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "30",
+    "title": "お前、何者！？",
+    "category": "内容確認",
+    "src": "audio/030.mp3",
+    "original": "セリフ全部/[Anya]お前、何者！？.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "31",
+    "title": "お前、正体バレバレ。",
+    "category": "ツッコミ・いたずら",
+    "src": "audio/031.mp3",
+    "original": "セリフ全部/[Anya]お前、正体バレバレ。.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "32",
+    "title": "お菓子いっ......わくわく！",
+    "category": "わくわく・喜び",
+    "src": "audio/032.mp3",
+    "original": "セリフ全部/[Anya]お菓子いっ......わくわく！.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "33",
+    "title": "お菓子くれ......ずらする！",
+    "category": "食べもの",
+    "src": "audio/033.mp3",
+    "original": "セリフ全部/[Anya]お菓子くれ......ずらする！.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "34",
+    "title": "これはトッ......クレット。",
+    "category": "内容確認",
+    "src": "audio/034.mp3",
+    "original": "セリフ全部/[Anya]これはトッ......クレット。.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "35",
+    "title": "それは大事件！",
+    "category": "驚き・困った",
+    "src": "audio/035.mp3",
+    "original": "セリフ全部/[Anya]それは大事件！.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "36",
+    "title": "なるほど。......理解した。",
+    "category": "内容確認",
+    "src": "audio/036.mp3",
+    "original": "セリフ全部/[Anya]なるほど。......理解した。.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "37",
+    "title": "ふっ、計画どおり。",
+    "category": "内容確認",
+    "src": "audio/037.mp3",
+    "original": "セリフ全部/[Anya]ふっ、計画どおり。.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "38",
+    "title": "むずかしい......がピンチ。",
+    "category": "内容確認",
+    "src": "audio/038.mp3",
+    "original": "セリフ全部/[Anya]むずかしい......がピンチ。.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "39",
+    "title": "もういっか......するます。",
+    "category": "挨拶・返事",
+    "src": "audio/039.mp3",
+    "original": "セリフ全部/[Anya]もういっか......するます。.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "40",
+    "title": "よろろすお......するます！",
+    "category": "内容確認",
+    "src": "audio/040.mp3",
+    "original": "セリフ全部/[Anya]よろろすお......するます！.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "41",
+    "title": "アーニャ、......しれない。",
+    "category": "内容確認",
+    "src": "audio/041.mp3",
+    "original": "セリフ全部/[Anya]アーニャ、......しれない。.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "42",
+    "title": "アーニャ、......もんある！",
+    "category": "内容確認",
+    "src": "audio/042.mp3",
+    "original": "セリフ全部/[Anya]アーニャ、......もんある！.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "43",
+    "title": "アーニャ、......ょんぼり。",
+    "category": "内容確認",
+    "src": "audio/043.mp3",
+    "original": "セリフ全部/[Anya]アーニャ、......ょんぼり。.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "44",
+    "title": "アーニャ、......れがいい！",
+    "category": "内容確認",
+    "src": "audio/044.mp3",
+    "original": "セリフ全部/[Anya]アーニャ、......れがいい！.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "45",
+    "title": "アーニャ、......んばった！",
+    "category": "内容確認",
+    "src": "audio/045.mp3",
+    "original": "セリフ全部/[Anya]アーニャ、......んばった！.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "46",
+    "title": "アーニャ、......気になる。",
+    "category": "内容確認",
+    "src": "audio/046.mp3",
+    "original": "セリフ全部/[Anya]アーニャ、......気になる。.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "47",
+    "title": "アーニャ、......気に入り！",
+    "category": "内容確認",
+    "src": "audio/047.mp3",
+    "original": "セリフ全部/[Anya]アーニャ、......気に入り！.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "48",
+    "title": "アーニャ、うれしい！",
+    "category": "わくわく・喜び",
+    "src": "audio/048.mp3",
+    "original": "セリフ全部/[Anya]アーニャ、うれしい！.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "49",
+    "title": "アーニャ、びっくり！",
+    "category": "驚き・困った",
+    "src": "audio/049.mp3",
+    "original": "セリフ全部/[Anya]アーニャ、びっくり！.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "50",
+    "title": "アーニャの......かわいい？",
+    "category": "友だち・呼びかけ",
+    "src": "audio/050.mp3",
+    "original": "セリフ全部/[Anya]アーニャの......かわいい？.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "51",
+    "title": "アーニャもまぜろ！",
+    "category": "内容確認",
+    "src": "audio/051.mp3",
+    "original": "セリフ全部/[Anya]アーニャもまぜろ！.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "52",
+    "title": "ハッ！ 悪者発見！",
+    "category": "内容確認",
+    "src": "audio/052.mp3",
+    "original": "セリフ全部/[Anya]ハッ！ 悪者発見！.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "53",
+    "title": "今の、ちょ......分かった！ (1)",
+    "category": "内容確認",
+    "src": "audio/053.mp3",
+    "original": "セリフ全部/[Anya]今の、ちょ......分かった！ (1).mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "54",
+    "title": "今の、ちょ......分かった！",
+    "category": "内容確認",
+    "src": "audio/054.mp3",
+    "original": "セリフ全部/[Anya]今の、ちょ......分かった！.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "55",
+    "title": "本物かと思......びっくり！",
+    "category": "驚き・困った",
+    "src": "audio/055.mp3",
+    "original": "セリフ全部/[Anya]本物かと思......びっくり！.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "56",
+    "title": "ルカ",
+    "category": "友だち・呼びかけ",
+    "src": "audio/056.mp3",
+    "original": "ルカ.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "57",
+    "title": "ルカ、怖い",
+    "category": "驚き・困った",
+    "src": "audio/057.mp3",
+    "original": "ルカ、怖い.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "58",
+    "title": "世界が平和に！？",
+    "category": "ツッコミ・いたずら",
+    "src": "audio/058.mp3",
+    "original": "世界が平和に！？.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "59",
+    "title": "乳見せて、",
+    "category": "ツッコミ・いたずら",
+    "src": "audio/059.mp3",
+    "original": "乳見せて、.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "60",
+    "title": "仲良くしたい",
+    "category": "友だち・呼びかけ",
+    "src": "audio/060.mp3",
+    "original": "仲良くしたい.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "61",
+    "title": "可愛い？",
+    "category": "友だち・呼びかけ",
+    "src": "audio/061.mp3",
+    "original": "可愛い？.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "62",
+    "title": "学校下手くそ",
+    "category": "驚き・困った",
+    "src": "audio/062.mp3",
+    "original": "学校下手くそ.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "63",
+    "title": "帰還",
+    "category": "挨拶・返事",
+    "src": "audio/063.mp3",
+    "original": "帰還.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "64",
+    "title": "涼介のお兄さん",
+    "category": "友だち・呼びかけ",
+    "src": "audio/064.mp3",
+    "original": "涼介のお兄さん.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "65",
+    "title": "英語嫌い",
+    "category": "驚き・困った",
+    "src": "audio/065.mp3",
+    "original": "英語嫌い.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "66",
+    "title": "AHHHHHHH ANYA-5e48ea00",
+    "category": "驚き・困った",
+    "src": "audio/066.mp3",
+    "original": "追加ボイス/AHHHHHHH ANYA-5e48ea00.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "67",
+    "title": "Ah anya-767f636a",
+    "category": "驚き・困った",
+    "src": "audio/067.mp3",
+    "original": "追加ボイス/Ah anya-767f636a.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "68",
+    "title": "Anya Ueeww-38a369d3",
+    "category": "驚き・困った",
+    "src": "audio/068.mp3",
+    "original": "追加ボイス/Anya Ueeww-38a369d3.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "69",
+    "title": "Anya Ueeww-8f76618d",
+    "category": "驚き・困った",
+    "src": "audio/069.mp3",
+    "original": "追加ボイス/Anya Ueeww-8f76618d.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "70",
+    "title": "Anya Waku Waku-743eaaee",
+    "category": "わくわく・喜び",
+    "src": "audio/070.mp3",
+    "original": "追加ボイス/Anya Waku Waku-743eaaee.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "71",
+    "title": "Anya song-d604d4f7",
+    "category": "わくわく・喜び",
+    "src": "audio/071.mp3",
+    "original": "追加ボイス/Anya song-d604d4f7.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "72",
+    "title": "Anya-e185d6bf",
+    "category": "内容確認",
+    "src": "audio/072.mp3",
+    "original": "追加ボイス/Anya-e185d6bf.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "73",
+    "title": "Waku Waku - Anya Forger-948c0c6e",
+    "category": "わくわく・喜び",
+    "src": "audio/073.mp3",
+    "original": "追加ボイス/Waku Waku - Anya Forger-948c0c6e.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "74",
+    "title": "anya waku waku-ce327876",
+    "category": "わくわく・喜び",
+    "src": "audio/074.mp3",
+    "original": "追加ボイス/anya waku waku-ce327876.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "75",
+    "title": "anya-29e414a8",
+    "category": "内容確認",
+    "src": "audio/075.mp3",
+    "original": "追加ボイス/anya-29e414a8.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "76",
+    "title": "anya-okeydoke",
+    "category": "挨拶・返事",
+    "src": "audio/076.mp3",
+    "original": "追加ボイス/anya-okeydoke.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "77",
+    "title": "anya-pistol-with-a",
+    "category": "内容確認",
+    "src": "audio/077.mp3",
+    "original": "追加ボイス/anya-pistol-with-a.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "78",
+    "title": "anya-waka-waka",
+    "category": "わくわく・喜び",
+    "src": "audio/078.mp3",
+    "original": "追加ボイス/anya-waka-waka.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "79",
+    "title": "anya-waka",
+    "category": "わくわく・喜び",
+    "src": "audio/079.mp3",
+    "original": "追加ボイス/anya-waka.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "80",
+    "title": "anya_4gzso24",
+    "category": "内容確認",
+    "src": "audio/080.mp3",
+    "original": "追加ボイス/anya_4gzso24.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "81",
+    "title": "doki-doki-waku-waku",
+    "category": "わくわく・喜び",
+    "src": "audio/081.mp3",
+    "original": "追加ボイス/doki-doki-waku-waku.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "82",
+    "title": "minduim-anya-spy-x-family",
+    "category": "食べもの",
+    "src": "audio/082.mp3",
+    "original": "追加ボイス/minduim-anya-spy-x-family.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "83",
+    "title": "moca-anya-spy-x-family",
+    "category": "内容確認",
+    "src": "audio/083.mp3",
+    "original": "追加ボイス/moca-anya-spy-x-family.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "84",
+    "title": "pake-anya",
+    "category": "内容確認",
+    "src": "audio/084.mp3",
+    "original": "追加ボイス/pake-anya.mp3",
+    "basis": "内容未確認"
+  },
+  {
+    "id": "85",
+    "title": "spy-mission-waku-waku",
+    "category": "わくわく・喜び",
+    "src": "audio/085.mp3",
+    "original": "追加ボイス/spy-mission-waku-waku.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "86",
+    "title": "sxf-anya-waku-waku",
+    "category": "わくわく・喜び",
+    "src": "audio/086.mp3",
+    "original": "追加ボイス/sxf-anya-waku-waku.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "87",
+    "title": "waku-waku-anime",
+    "category": "わくわく・喜び",
+    "src": "audio/087.mp3",
+    "original": "追加ボイス/waku-waku-anime.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "88",
+    "title": "waku-waku",
+    "category": "わくわく・喜び",
+    "src": "audio/088.mp3",
+    "original": "追加ボイス/waku-waku.mp3",
+    "basis": "ファイル名から推定"
+  },
+  {
+    "id": "89",
+    "title": "waku",
+    "category": "わくわく・喜び",
+    "src": "audio/089.mp3",
+    "original": "追加ボイス/waku.mp3",
+    "basis": "ファイル名から推定"
+  }
+]
