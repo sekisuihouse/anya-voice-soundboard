@@ -2,6 +2,11 @@
 
 90件すべてのMP3を収録したAndroid向けPWAです。APKではありません。
 
+## 公開アプリ
+https://sekisuihouse.github.io/anya-voice-soundboard/
+
+AndroidのChromeで上記URLを開き、メニューから「ホーム画面に追加」→「インストール」を選びます。
+
 ## 起動
 Macで `cd /Users/sekine/Downloads/anya/soundboard/dist && python3 -m http.server 8765` を実行し、http://localhost:8765 を開きます。
 
